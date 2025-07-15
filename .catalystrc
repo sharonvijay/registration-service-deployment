@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "24003000000009113",
+      "name": "regist-serve",
+      "domain": {
+        "id": "10082995091",
+        "name": "regist-serve-856219410.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "856219410",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
